@@ -1,5 +1,6 @@
 //original source :  http://timelessname.com/sandbox/matrix.html
 //set the canvas to take the entire screen
+//make sure canvas is define before script is ran
 canvas.height = window.screen.height;
 canvas.width = window.screen.width;
 
