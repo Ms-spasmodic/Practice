@@ -1,0 +1,11 @@
+/home/verna/Desktop/C#/myApp/bin/Debug/netcoreapp2.0/myApp.deps.json
+/home/verna/Desktop/C#/myApp/bin/Debug/netcoreapp2.0/myApp.runtimeconfig.json
+/home/verna/Desktop/C#/myApp/bin/Debug/netcoreapp2.0/myApp.runtimeconfig.dev.json
+/home/verna/Desktop/C#/myApp/bin/Debug/netcoreapp2.0/myApp.dll
+/home/verna/Desktop/C#/myApp/bin/Debug/netcoreapp2.0/myApp.pdb
+/home/verna/Desktop/C#/myApp/obj/Debug/netcoreapp2.0/myApp.csprojAssemblyReference.cache
+/home/verna/Desktop/C#/myApp/obj/Debug/netcoreapp2.0/myApp.csproj.CoreCompileInputs.cache
+/home/verna/Desktop/C#/myApp/obj/Debug/netcoreapp2.0/myApp.AssemblyInfoInputs.cache
+/home/verna/Desktop/C#/myApp/obj/Debug/netcoreapp2.0/myApp.AssemblyInfo.cs
+/home/verna/Desktop/C#/myApp/obj/Debug/netcoreapp2.0/myApp.dll
+/home/verna/Desktop/C#/myApp/obj/Debug/netcoreapp2.0/myApp.pdb
